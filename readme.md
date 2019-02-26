@@ -5,3 +5,6 @@
 4. Run `go run update.go` to run the program 
 
 It will loop in interval 1 minute to update the data timestamp with the latest one.
+
+## Database
+Postgresql
